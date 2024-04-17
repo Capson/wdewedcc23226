@@ -3,7 +3,7 @@
 "source":"//",
 "destination":"/sample-page",
 "permanent": true
-},{"source": "///",       "destination": "///bila",       "permanent": true     }
+},{"source": "///",       "destination": "///bila",       "permanent": true     },{"source": "//",       "destination": "/wefwef",       "permanent": true     }
 ],
   "rewrites": [
     {
