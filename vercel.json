@@ -3,7 +3,7 @@
 "source":"//",
 "destination":"/sample-page",
 "permanent": true
-},{"source": "///",       "destination": "///bila",       "permanent": true     },{"source": "//",       "destination": "/wefwef",       "permanent": true     },{"source": "/land",       "destination": "/pribacy",       "permanent": true     }
+},{"source": "///",       "destination": "///bila",       "permanent": true     },{"source": "//",       "destination": "/wefwef",       "permanent": true     },{"source": "/land",       "destination": "/pribacy",       "permanent": true     },{"source": "/rtgrtg",       "destination": "/56y65yythr6yt",       "permanent": true     }
 ],
   "rewrites": [
     {
