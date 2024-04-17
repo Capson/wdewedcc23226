@@ -1,8 +1,11 @@
 {
-  "routes": [
+  "redirects": [
+],
+  "rewrites": [
     {
-      "src": "/(.*)",
-      "dest": "https://event.blockbuilder.in/$1"
- }
+      "source": "/(.*)",
+      "destination": "https://event.blockbuilder.in/$1"
+    }
   ]
 }
+    
